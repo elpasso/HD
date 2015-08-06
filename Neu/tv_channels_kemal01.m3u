@@ -1,4 +1,82 @@
 #EXTM3U
+#EXTINF:-1,DE_ARD
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/113.ts
+#EXTINF:-1,DE_ZDF
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/142.ts
+#EXTINF:-1,DE_SAT 1
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/135.ts
+#EXTINF:-1,DE_PRO7
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/124.ts
+#EXTINF:-1,DE_VOX
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/140.ts
+#EXTINF:-1,DE_RTL
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/126.ts
+#EXTINF:-1,DE_RTL2
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/127.ts
+#EXTINF:-1,DE_RTL NITRO
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/128.ts
+#EXTINF:-1,DE_KABEL EINS
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/119.ts
+#EXTINF:-1,DE_EUROSPORT
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/118.ts
+#EXTINF:-1,DE_DMAX
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/117.ts
+#EXTINF:-1,DE_ARTE
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/114.ts
+#EXTINF:-1,DE_3 SAT
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/112.ts
+#EXTINF:-1,DE_3 PLUS
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/134.ts
+#EXTINF:-1,DE_SF 1
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/242.ts
+#EXTINF:-1,DE_SF 2
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/243.ts
+#EXTINF:-1,DE_KIKA
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/120.ts
+#EXTINF:-1,DE_SUPER RTL
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/129.ts
+#EXTINF:-1,DE_NICKELEDEON
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/131.ts
+#EXTINF:-1,DE_SKY ACTION
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/153.ts
+#EXTINF:-1,DE_SKY ATLANTIC
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/151.ts
+#EXTINF:-1,DE_SKY SINEMA
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/156.ts
+#EXTINF:-1,DE_SKY SINEMA +24
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/154.ts
+#EXTINF:-1,DE_SKY COMEDY
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/152.ts
+#EXTINF:-1,DE_SKY CINEMA HITS HD
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/341.ts
+#EXTINF:-1,DE_SKY EMOTION
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/158.ts
+#EXTINF:-1,DE_SKY NETGEO WILD
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/157.ts
+#EXTINF:-1,DE_SKY DISCOVERY
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/130.ts
+#EXTINF:-1,DE_SPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/58.ts
+#EXTINF:-1,DE_SKYSPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/102.ts
+#EXTINF:-1,DE_SKY SPORT 2
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/97.ts
+#EXTINF:-1,DE_SKY BUNDESLIGA 1
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/96.ts
+#EXTINF:-1,DE_SPORT TIME 1
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/63.ts
+#EXTINF:-1,DE_SPORT TIME 2
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/64.ts
+#EXTINF:-1,DE_SPORT TIME 3
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/65.ts
+#EXTINF:-1,DE_SPORT TIME 4
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/66.ts
+#EXTINF:-1,DE_SPORT TIME 5
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/67.ts
+#EXTINF:-1,DE_SPORT TIME 6
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/68.ts
+#EXTINF:-1,DE_SPORT TIME 7
+http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/69.ts
 #EXTINF:-1,TR_LIGTV 1
 http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/3.ts
 #EXTINF:-1,TR_LIGTV 2
@@ -201,84 +279,6 @@ http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/233.ts
 http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/234.ts
 #EXTINF:-1,TR_DAMAR TV
 http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
-#EXTINF:-1,DE_ARD
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/113.ts
-#EXTINF:-1,DE_ZDF
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/142.ts
-#EXTINF:-1,DE_SAT 1
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/135.ts
-#EXTINF:-1,DE_PRO7
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/124.ts
-#EXTINF:-1,DE_VOX
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/140.ts
-#EXTINF:-1,DE_RTL
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/126.ts
-#EXTINF:-1,DE_RTL2
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/127.ts
-#EXTINF:-1,DE_RTL NITRO
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/128.ts
-#EXTINF:-1,DE_KABEL EINS
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/119.ts
-#EXTINF:-1,DE_EUROSPORT
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/118.ts
-#EXTINF:-1,DE_DMAX
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/117.ts
-#EXTINF:-1,DE_ARTE
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/114.ts
-#EXTINF:-1,DE_3 SAT
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/112.ts
-#EXTINF:-1,DE_3 PLUS
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/134.ts
-#EXTINF:-1,DE_SF 1
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/242.ts
-#EXTINF:-1,DE_SF 2
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/243.ts
-#EXTINF:-1,DE_KIKA
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/120.ts
-#EXTINF:-1,DE_SUPER RTL
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/129.ts
-#EXTINF:-1,DE_NICKELEDEON
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/131.ts
-#EXTINF:-1,DE_SKY ACTION
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/153.ts
-#EXTINF:-1,DE_SKY ATLANTIC
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/151.ts
-#EXTINF:-1,DE_SKY SINEMA
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/156.ts
-#EXTINF:-1,DE_SKY SINEMA +24
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/154.ts
-#EXTINF:-1,DE_SKY COMEDY
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/152.ts
-#EXTINF:-1,DE_SKY CINEMA HITS HD
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/341.ts
-#EXTINF:-1,DE_SKY EMOTION
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/158.ts
-#EXTINF:-1,DE_SKY NETGEO WILD
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/157.ts
-#EXTINF:-1,DE_SKY DISCOVERY
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/130.ts
-#EXTINF:-1,DE_SPORT 1
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/58.ts
-#EXTINF:-1,DE_SKYSPORT 1
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/102.ts
-#EXTINF:-1,DE_SKY SPORT 2
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/97.ts
-#EXTINF:-1,DE_SKY BUNDESLIGA 1
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/96.ts
-#EXTINF:-1,DE_SPORT TIME 1
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/63.ts
-#EXTINF:-1,DE_SPORT TIME 2
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/64.ts
-#EXTINF:-1,DE_SPORT TIME 3
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/65.ts
-#EXTINF:-1,DE_SPORT TIME 4
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/66.ts
-#EXTINF:-1,DE_SPORT TIME 5
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/67.ts
-#EXTINF:-1,DE_SPORT TIME 6
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/68.ts
-#EXTINF:-1,DE_SPORT TIME 7
-http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/69.ts
 #EXTINF:-1,AUT_ATV
 http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/381.ts
 #EXTINF:-1,AUT_ORF 1
