@@ -1,240 +1,5 @@
 #EXTM3U
-#EXTINF:-1,TR_LIGTV 1
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/3.ts
-#EXTINF:-1,TR_LIGTV 2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/55.ts
-#EXTINF:-1,TR_LIGTV 3
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/54.ts
-#EXTINF:-1,TR_LIGTV 1 YEDEK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/294.ts
-#EXTINF:-1,TR_SMARTSPOR 1
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/98.ts
-#EXTINF:-1,TR_SMARTSPOR 2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/412.ts
-#EXTINF:-1,TR_TIVIBUSPOR
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/56.ts
-#EXTINF:-1,TR_TIVIBUSPOR 2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/430.ts
-#EXTINF:-1,TR_NTVSPORSMART
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/99.ts
-#EXTINF:-1,TR_LIVE MAC TV 1
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/402.ts
-#EXTINF:-1,TR_LIVE MAC TV 2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/403.ts
-#EXTINF:-1,TR_LIVE MAC TV 3
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/404.ts
-#EXTINF:-1,TR_LIVE MAC TV 4
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/405.ts
-#EXTINF:-1,TR_LIVE MAC TV 5
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/406.ts
-#EXTINF:-1,TR_NTV SPOR
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/2.ts
-#EXTINF:-1,TR_SPORTS TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/106.ts
-#EXTINF:-1,TR_A SPOR
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/37.ts
-#EXTINF:-1,TR_FB TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/367.ts
-#EXTINF:-1,TR_BURSASPORTV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/83.ts
-#EXTINF:-1,TR_FANATİK TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/425.ts
-#EXTINF:-1,TR_7/24 TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/19.ts
-#EXTINF:-1,TR_TRT SPOR HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/15.ts
-#EXTINF:-1,TR_TRT1 HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/7.ts
-#EXTINF:-1,TR_TRT HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/9.ts
-#EXTINF:-1,TR_TRT HABER
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/237.ts
-#EXTINF:-1,TR_TRT TURK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/238.ts
-#EXTINF:-1,TR_TRT DIYANET TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/241.ts
-#EXTINF:-1,TR_STAR TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/8.ts
-#EXTINF:-1,TR_SHOW HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/434.ts
-#EXTINF:-1,TR_SHOW TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/93.ts
-#EXTINF:-1,TR_KANALD HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/10.ts
-#EXTINF:-1,TR_FOX TV HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/11.ts
-#EXTINF:-1,TR_ATV HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/78.ts
-#EXTINF:-1,TR_TV 8
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/229.ts
-#EXTINF:-1,TR_TV 8 HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/408.ts
-#EXTINF:-1,TR_FIL TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/424.ts
-#EXTINF:-1,TR_KANAL TURK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/14.ts
-#EXTINF:-1,TR_BEYAZ TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/80.ts
-#EXTINF:-1,TR_BEYAZ TV YEDEK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/18.ts
-#EXTINF:-1,TR_KANAL 7 HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/228.ts
-#EXTINF:-1,TR_SAMANYOLU TV SD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/433.ts
-#EXTINF:-1,TR_E2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/88.ts
-#EXTINF:-1,TR_NTV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/16.ts
-#EXTINF:-1,TR_BEREKET TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/240.ts
-#EXTINF:-1,TR_ULUSAL KANAL
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/239.ts
-#EXTINF:-1,TR_SKY360
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/77.ts
-#EXTINF:-1,TR_HABER TURK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/17.ts
-#EXTINF:-1,TR_BLOOMBERGTV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/81.ts
-#EXTINF:-1,TR_CNN TURK HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/226.ts
-#EXTINF:-1,TR_24 TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/455.ts
-#EXTINF:-1,TR_HALK TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/227.ts
-#EXTINF:-1,TR_MINIKA GO
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/35.ts
-#EXTINF:-1,TR_TRT COCUK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/32.ts
-#EXTINF:-1,TR_PLANET COCUK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/33.ts
-#EXTINF:-1,TR_CARTON NETWORK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/84.ts
-#EXTINF:-1,TR_CARTON NETWORK ALTERNATIF
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/34.ts
-#EXTINF:-1,TR_DISNEY CH HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/249.ts
-#EXTINF:-1,TR_ESKI FILMLERTV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/89.ts
-#EXTINF:-1,TR_CINERAMA TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/87.ts
-#EXTINF:-1,TR_CINEMA ONE
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/86.ts
-#EXTINF:-1,TR_BUGÜN TV HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/82.ts
-#EXTINF:-1,TR_A SINEMA
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/74.ts
-#EXTINF:-1,TR_24 SAAT FILM
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/75.ts
-#EXTINF:-1,TR_TV2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/183.ts
-#EXTINF:-1,TR_LOCA 1
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/252.ts
-#EXTINF:-1,TR_LOCA 2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/253.ts
-#EXTINF:-1,TR_LOCA 3
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/254.ts
-#EXTINF:-1,TR_SALON 1
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/53.ts
-#EXTINF:-1,TR_SALON 2
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/44.ts
-#EXTINF:-1,TR_SALON 3
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/52.ts
-#EXTINF:-1,TR_VIP SINEMA HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/493.ts
-#EXTINF:-1,TR_VIP SINEMA ACTION
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/492.ts
-#EXTINF:-1,TR_VIP COMEDY HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/488.ts
-#EXTINF:-1,TR_VIP FESTIVAL HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/490.ts
-#EXTINF:-1,TR_VIP SPECIAL HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/494.ts
-#EXTINF:-1,TR_VIP STAR
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/489.ts
-#EXTINF:-1,TR_VIP KORKU HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/491.ts
-#EXTINF:-1,TR_SCREAM KORKU HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/481.ts
-#EXTINF:-1,TR_SKY COMEDY HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/485.ts
-#EXTINF:-1,TR_SINETIVI HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/486.ts
-#EXTINF:-1,TR_MCM TOP HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/483.ts
-#EXTINF:-1,TR_FOX ACTION HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/479.ts
-#EXTINF:-1,TR_MAXSMART PREMIUM HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/482.ts
-#EXTINF:-1,TR_SMART PREMIUM HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/487.ts
-#EXTINF:-1,TR_KIDS ANIMASYON HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/480.ts
-#EXTINF:-1,TR_ACTION HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/247.ts
-#EXTINF:-1,TR_GALA TV HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/266.ts
-#EXTINF:-1,TR_SINEMA TV 1001
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/407.ts
-#EXTINF:-1,TR_NİCKOLEDEON HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/440.ts
-#EXTINF:-1,TR_SINEMA TV AKSIYON HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/438.ts
-#EXTINF:-1,TR_SINEMA TV ASK HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/484.ts
-#EXTINF:-1,TR_TURK FILMI HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/380.ts
-#EXTINF:-1,TR_MOVIESMART GOLD HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/251.ts
-#EXTINF:-1,TR_MOVIESMART ACTION HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/255.ts
-#EXTINF:-1,TR_MOVIESMART FAMILY HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/267.ts
-#EXTINF:-1,TR_MOVIEMAX SPEED
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/250.ts
-#EXTINF:-1,TR_MOVIEMAX FAMILY HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/263.ts
-#EXTINF:-1,TR_MOVIEMAX PREMIERE 1 HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/261.ts
-#EXTINF:-1,TR_MOVIEMAX PREMIERE 2 HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/264.ts
-#EXTINF:-1,TR_MOVIEMAX FESTIVAL HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/262.ts
-#EXTINF:-1,TR_MOVIEMAX  OSCAR HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/265.ts
-#EXTINF:-1,TR_COMEDY MAX HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/248.ts
-#EXTINF:-1,TR_TURKMAX GURME HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/436.ts
-#EXTINF:-1,TR_VIZYON PLUS HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/437.ts
-#EXTINF:-1,TR_COMING SOON HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/435.ts
-#EXTINF:-1,TR_NATGEO
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/385.ts
-#EXTINF:-1,TR_NAT GEO WILD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/355.ts
-#EXTINF:-1,TR_NATGEO PEOPLE
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/386.ts
-#EXTINF:-1,TR_ANIMAL PLANET
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/382.ts
-#EXTINF:-1,TR_DISCOVERY CHANNEL
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/383.ts
-#EXTINF:-1,TR_DİSCOVERY SCİENCE
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/384.ts
-#EXTINF:-1,TR_MAVI BELGESEL
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/439.ts
-#EXTINF:-1,TR_WORLD TRAVEL CHANNEL
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/107.ts
-#EXTINF:-1,TR_NUMMER ONE TURK
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/231.ts
-#EXTINF:-1,TR_NUMMER ONE HD
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/230.ts
-#EXTINF:-1,TR_KRAL TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/233.ts
-#EXTINF:-1,TR_DREAM TURK TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/234.ts
-#EXTINF:-1,TR_DAMAR TV
-http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/235.ts
+
 #EXTINF:-1,DE_ARD
 http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/113.ts
 #EXTINF:-1,DE_ZDF
@@ -327,6 +92,34 @@ http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/67.ts
 http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/68.ts
 #EXTINF:-1,DE_SPORT TIME 7
 http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/69.ts
+#EXTINF:-1,TR_LIGTV 1
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/3.ts
+#EXTINF:-1,TR_LIGTV 2
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/55.ts
+#EXTINF:-1,TR_LIGTV 3
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/54.ts
+#EXTINF:-1,TR_LIGTV 1 YEDEK
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/294.ts
+#EXTINF:-1,TR_SMARTSPOR 1
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/98.ts
+#EXTINF:-1,TR_SMARTSPOR 2
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/412.ts
+#EXTINF:-1,TR_TIVIBUSPOR
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/56.ts
+#EXTINF:-1,TR_TIVIBUSPOR 2
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/430.ts
+#EXTINF:-1,TR_NTVSPORSMART
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/99.ts
+#EXTINF:-1,TR_LIVE MAC TV 1
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/402.ts
+#EXTINF:-1,TR_LIVE MAC TV 2
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/403.ts
+#EXTINF:-1,TR_LIVE MAC TV 3
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/404.ts
+#EXTINF:-1,TR_LIVE MAC TV 4
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/405.ts
+#EXTINF:-1,TR_LIVE MAC TV 5
+http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/406.ts
 #EXTINF:-1,AUT_ATV
 http://okayahmetbilisim.mine.nu:8000/live/kemalde01/0OKyeNhRcH/381.ts
 #EXTINF:-1,AUT_ORF 1
