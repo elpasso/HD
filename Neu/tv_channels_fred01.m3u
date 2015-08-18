@@ -1,0 +1,523 @@
+#EXTM3U
+#EXTINF:-1,TR_LIGTV 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/3.ts
+#EXTINF:-1,TR_LIGTV 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/55.ts
+#EXTINF:-1,TR_LIGTV 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/54.ts
+#EXTINF:-1,TR_LIGTV 1 YEDEK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/294.ts
+#EXTINF:-1,TR_SMARTSPOR 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/98.ts
+#EXTINF:-1,TR_SMARTSPOR 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/412.ts
+#EXTINF:-1,TR_TIVIBUSPOR
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/56.ts
+#EXTINF:-1,TR_TIVIBUSPOR 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/430.ts
+#EXTINF:-1,TR_NTVSPORSMART
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/99.ts
+#EXTINF:-1,TR_LIVE MAC TV 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/402.ts
+#EXTINF:-1,TR_LIVE MAC TV 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/403.ts
+#EXTINF:-1,TR_LIVE MAC TV 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/404.ts
+#EXTINF:-1,TR_LIVE MAC TV 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/405.ts
+#EXTINF:-1,TR_LIVE MAC TV 5
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/406.ts
+#EXTINF:-1,TR_NTV SPOR
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/2.ts
+#EXTINF:-1,TR_SPORTS TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/106.ts
+#EXTINF:-1,TR_A SPOR
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/37.ts
+#EXTINF:-1,TR_FB TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/367.ts
+#EXTINF:-1,TR_BURSASPORTV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/83.ts
+#EXTINF:-1,TR_FANATİK TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/425.ts
+#EXTINF:-1,TR_7/24 TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/19.ts
+#EXTINF:-1,TR_TRT SPOR HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/15.ts
+#EXTINF:-1,TR_TRT1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/7.ts
+#EXTINF:-1,TR_TRT HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/9.ts
+#EXTINF:-1,TR_TRT HABER
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/237.ts
+#EXTINF:-1,TR_TRT TURK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/238.ts
+#EXTINF:-1,TR_TRT DIYANET TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/241.ts
+#EXTINF:-1,TR_STAR TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/8.ts
+#EXTINF:-1,TR_SHOW HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/434.ts
+#EXTINF:-1,TR_SHOW TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/93.ts
+#EXTINF:-1,TR_KANALD HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/10.ts
+#EXTINF:-1,TR_FOX TV HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/11.ts
+#EXTINF:-1,TR_ATV HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/78.ts
+#EXTINF:-1,TR_TV 8
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/229.ts
+#EXTINF:-1,TR_TV 8 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/408.ts
+#EXTINF:-1,TR_FIL TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/424.ts
+#EXTINF:-1,TR_KANAL TURK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/14.ts
+#EXTINF:-1,TR_BEYAZ TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/80.ts
+#EXTINF:-1,TR_BEYAZ TV YEDEK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/18.ts
+#EXTINF:-1,TR_KANAL 7 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/228.ts
+#EXTINF:-1,TR_SAMANYOLU TV SD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/433.ts
+#EXTINF:-1,TR_E2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/88.ts
+#EXTINF:-1,TR_NTV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/16.ts
+#EXTINF:-1,TR_BEREKET TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/240.ts
+#EXTINF:-1,TR_ULUSAL KANAL
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/239.ts
+#EXTINF:-1,TR_SKY360
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/77.ts
+#EXTINF:-1,TR_HABER TURK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/17.ts
+#EXTINF:-1,TR_BLOOMBERGTV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/81.ts
+#EXTINF:-1,TR_CNN TURK HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/226.ts
+#EXTINF:-1,TR_24 TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/455.ts
+#EXTINF:-1,TR_HALK TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/227.ts
+#EXTINF:-1,TR_MINIKA GO
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/35.ts
+#EXTINF:-1,TR_TRT COCUK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/32.ts
+#EXTINF:-1,TR_PLANET COCUK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/33.ts
+#EXTINF:-1,TR_CARTON NETWORK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/84.ts
+#EXTINF:-1,TR_CARTON NETWORK ALTERNATIF
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/34.ts
+#EXTINF:-1,TR_DISNEY CH HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/249.ts
+#EXTINF:-1,TR_ESKI FILMLERTV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/89.ts
+#EXTINF:-1,TR_CINERAMA TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/87.ts
+#EXTINF:-1,TR_CINEMA ONE
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/86.ts
+#EXTINF:-1,TR_BUGÜN TV HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/82.ts
+#EXTINF:-1,TR_A SINEMA
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/74.ts
+#EXTINF:-1,TR_24 SAAT FILM
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/75.ts
+#EXTINF:-1,TR_TV2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/183.ts
+#EXTINF:-1,TR_LOCA 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/252.ts
+#EXTINF:-1,TR_LOCA 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/253.ts
+#EXTINF:-1,TR_LOCA 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/254.ts
+#EXTINF:-1,TR_SALON 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/53.ts
+#EXTINF:-1,TR_SALON 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/44.ts
+#EXTINF:-1,TR_SALON 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/52.ts
+#EXTINF:-1,TR_VIP SINEMA HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/493.ts
+#EXTINF:-1,TR_VIP SINEMA ACTION
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/492.ts
+#EXTINF:-1,TR_VIP COMEDY HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/488.ts
+#EXTINF:-1,TR_VIP FESTIVAL HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/490.ts
+#EXTINF:-1,TR_VIP SPECIAL HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/494.ts
+#EXTINF:-1,TR_VIP STAR
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/489.ts
+#EXTINF:-1,TR_VIP KORKU HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/491.ts
+#EXTINF:-1,TR_SCREAM KORKU HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/481.ts
+#EXTINF:-1,TR_SKY COMEDY HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/485.ts
+#EXTINF:-1,TR_SINETIVI HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/486.ts
+#EXTINF:-1,TR_MCM TOP HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/483.ts
+#EXTINF:-1,TR_FOX ACTION HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/479.ts
+#EXTINF:-1,TR_MAXSMART PREMIUM HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/482.ts
+#EXTINF:-1,TR_SMART PREMIUM HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/487.ts
+#EXTINF:-1,TR_KIDS ANIMASYON HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/480.ts
+#EXTINF:-1,TR_ACTION HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/247.ts
+#EXTINF:-1,TR_GALA TV HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/266.ts
+#EXTINF:-1,TR_SINEMA TV 1001
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/407.ts
+#EXTINF:-1,TR_NİCKOLEDEON HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/440.ts
+#EXTINF:-1,TR_SINEMA TV AKSIYON HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/438.ts
+#EXTINF:-1,TR_SINEMA TV ASK HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/484.ts
+#EXTINF:-1,TR_TURK FILMI HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/380.ts
+#EXTINF:-1,TR_MOVIESMART GOLD HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/251.ts
+#EXTINF:-1,TR_MOVIESMART ACTION HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/255.ts
+#EXTINF:-1,TR_MOVIESMART FAMILY HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/267.ts
+#EXTINF:-1,TR_MOVIEMAX SPEED
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/250.ts
+#EXTINF:-1,TR_MOVIEMAX FAMILY HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/263.ts
+#EXTINF:-1,TR_MOVIEMAX PREMIERE 1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/261.ts
+#EXTINF:-1,TR_MOVIEMAX PREMIERE 2 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/264.ts
+#EXTINF:-1,TR_MOVIEMAX FESTIVAL HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/262.ts
+#EXTINF:-1,TR_MOVIEMAX  OSCAR HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/265.ts
+#EXTINF:-1,TR_COMEDY MAX HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/248.ts
+#EXTINF:-1,TR_TURKMAX GURME HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/436.ts
+#EXTINF:-1,TR_VIZYON PLUS HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/437.ts
+#EXTINF:-1,TR_COMING SOON HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/435.ts
+#EXTINF:-1,TR_NATGEO
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/385.ts
+#EXTINF:-1,TR_NAT GEO WILD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/355.ts
+#EXTINF:-1,TR_NATGEO PEOPLE
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/386.ts
+#EXTINF:-1,TR_ANIMAL PLANET
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/382.ts
+#EXTINF:-1,TR_DISCOVERY CHANNEL
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/383.ts
+#EXTINF:-1,TR_DİSCOVERY SCİENCE
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/384.ts
+#EXTINF:-1,TR_MAVI BELGESEL
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/439.ts
+#EXTINF:-1,TR_WORLD TRAVEL CHANNEL
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/107.ts
+#EXTINF:-1,TR_NUMMER ONE TURK
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/231.ts
+#EXTINF:-1,TR_NUMMER ONE HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/230.ts
+#EXTINF:-1,TR_KRAL TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/233.ts
+#EXTINF:-1,TR_DREAM TURK TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/234.ts
+#EXTINF:-1,TR_DAMAR TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/235.ts
+#EXTINF:-1,DE_ARD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/113.ts
+#EXTINF:-1,DE_ZDF
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/142.ts
+#EXTINF:-1,DE_SAT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/135.ts
+#EXTINF:-1,DE_PRO7
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/124.ts
+#EXTINF:-1,DE_VOX
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/140.ts
+#EXTINF:-1,DE_RTL
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/126.ts
+#EXTINF:-1,DE_RTL2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/127.ts
+#EXTINF:-1,DE_RTL NITRO
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/128.ts
+#EXTINF:-1,DE_KABEL EINS
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/119.ts
+#EXTINF:-1,DE_EUROSPORT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/118.ts
+#EXTINF:-1,DE_DMAX
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/117.ts
+#EXTINF:-1,DE_ARTE
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/114.ts
+#EXTINF:-1,DE_3 SAT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/112.ts
+#EXTINF:-1,DE_3 PLUS
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/134.ts
+#EXTINF:-1,DE_SF 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/242.ts
+#EXTINF:-1,DE_SF 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/243.ts
+#EXTINF:-1,DE_KIKA
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/120.ts
+#EXTINF:-1,DE_SUPER RTL
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/129.ts
+#EXTINF:-1,DE_NICKELEDEON
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/131.ts
+#EXTINF:-1,DE_SKY ACTION
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/153.ts
+#EXTINF:-1,DE_SKY ATLANTIC
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/151.ts
+#EXTINF:-1,DE_SKY SINEMA
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/156.ts
+#EXTINF:-1,DE_SKY SINEMA +24
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/154.ts
+#EXTINF:-1,DE_SKY COMEDY
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/152.ts
+#EXTINF:-1,DE_SKY CINEMA HITS HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/341.ts
+#EXTINF:-1,DE_SKY EMOTION
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/158.ts
+#EXTINF:-1,DE_SKY NETGEO WILD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/157.ts
+#EXTINF:-1,DE_SKY DISCOVERY
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/130.ts
+#EXTINF:-1,DE_SKY SELECT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/471.ts
+#EXTINF:-1,DE_SKY SELECT 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/472.ts
+#EXTINF:-1,DE_SKY SELECT 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/473.ts
+#EXTINF:-1,DE_SKY SELECT 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/474.ts
+#EXTINF:-1,DE_SKY SELECT 5
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/475.ts
+#EXTINF:-1,DE_SKY SELECT 6
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/476.ts
+#EXTINF:-1,DE_SKY SELECT 7
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/477.ts
+#EXTINF:-1,DE_SPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/58.ts
+#EXTINF:-1,DE_SKYSPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/102.ts
+#EXTINF:-1,DE_SKY SPORT 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/97.ts
+#EXTINF:-1,DE_SKY BUNDESLIGA 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/96.ts
+#EXTINF:-1,DE_SPORT TIME 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/63.ts
+#EXTINF:-1,DE_SPORT TIME 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/64.ts
+#EXTINF:-1,DE_SPORT TIME 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/65.ts
+#EXTINF:-1,DE_SPORT TIME 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/66.ts
+#EXTINF:-1,DE_SPORT TIME 5
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/67.ts
+#EXTINF:-1,DE_SPORT TIME 6
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/68.ts
+#EXTINF:-1,DE_SPORT TIME 7
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/69.ts
+#EXTINF:-1,AUT_ATV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/381.ts
+#EXTINF:-1,AUT_ORF 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/132.ts
+#EXTINF:-1,AUT_ORF 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/133.ts
+#EXTINF:-1,AUT_ORF SPORT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/49.ts
+#EXTINF:-1,AUT_AUSTRIA 24
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/111.ts
+#EXTINF:-1,RO_DIGI SPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/342.ts
+#EXTINF:-1,RO_DIGI SPORT 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/343.ts
+#EXTINF:-1,RO_DIGI SPORT 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/344.ts
+#EXTINF:-1,ESP_CANAL GOLF HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/420.ts
+#EXTINF:-1,ESP_CANAL DEPORTES HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/418.ts
+#EXTINF:-1,ESP_ CANAL LIGA HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/419.ts
+#EXTINF:-1,ESP_CANAL + DEPORTES
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/356.ts
+#EXTINF:-1,SIRP_ARENASPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/212.ts
+#EXTINF:-1,SIRP_ARENASPORT 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/213.ts
+#EXTINF:-1,SIRP_ARENASPORT 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/214.ts
+#EXTINF:-1,SIRP_ARENASPORT 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/215.ts
+#EXTINF:-1,SIRP_ARENASPORT 5
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/216.ts
+#EXTINF:-1,SIRP_SPORT CLUB 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/209.ts
+#EXTINF:-1,SIRP_SPORT CLUB 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/210.ts
+#EXTINF:-1,SIRP_SPORT CLUB 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/211.ts
+#EXTINF:-1,NL_SPORT 1 SELECT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/217.ts
+#EXTINF:-1,NL_FOX SPORT 1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/219.ts
+#EXTINF:-1,NL_FOX SPORT 2 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/220.ts
+#EXTINF:-1,NL_FOX SPORT 3 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/221.ts
+#EXTINF:-1,NL_FOX SPORT 4 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/431.ts
+#EXTINF:-1,NL_FOX SPORT 5 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/432.ts
+#EXTINF:-1,POR_SPORT TV 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/370.ts
+#EXTINF:-1,POR_SPORT TV 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/371.ts
+#EXTINF:-1,POR_SPORT TV 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/372.ts
+#EXTINF:-1,POR_SPORT TV 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/373.ts
+#EXTINF:-1,FR_ARTE HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/345.ts
+#EXTINF:-1,FR_CANAL HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/347.ts
+#EXTINF:-1,FR_FRANCE O
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/351.ts
+#EXTINF:-1,FR_FRANCE 24
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/350.ts
+#EXTINF:-1,FR_CINE+ FRISSON
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/349.ts
+#EXTINF:-1,FR_CANAL CINEMA HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/346.ts
+#EXTINF:-1,FR_CANAL + SERIES
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/348.ts
+#EXTINF:-1,FR_BEINSPORT 1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/352.ts
+#EXTINF:-1,FR_BEINSPORT 2  HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/353.ts
+#EXTINF:-1,UK_SKY_SPORTS 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/172.ts
+#EXTINF:-1,UK_SKY_SPORTS 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/173.ts
+#EXTINF:-1,UK_SKY_SPORTS 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/174.ts
+#EXTINF:-1,UK_SKY_SPORTS 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/175.ts
+#EXTINF:-1,UK_SKY_SPORTS 5
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/176.ts
+#EXTINF:-1,UK_SKY SPORT F1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/354.ts
+#EXTINF:-1,UK_SKY SPORT NEWS HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/421.ts
+#EXTINF:-1,UK_BTSPORT 1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/328.ts
+#EXTINF:-1,UK_BTSPORT 2 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/329.ts
+#EXTINF:-1,UK_SETANTA SPORT IRLAND
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/359.ts
+#EXTINF:-1,UK_EUROSPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/422.ts
+#EXTINF:-1,UK_EUROSPORT 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/423.ts
+#EXTINF:-1,UK_ANIMAL PLANET
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/362.ts
+#EXTINF:-1,ITA_SKYSPORT 1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/201.ts
+#EXTINF:-1,ITA_SKYSPORT 2 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/202.ts
+#EXTINF:-1,ITA_SKYSPORT 3 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/203.ts
+#EXTINF:-1,ITA_SKYSUPERCALCIO
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/205.ts
+#EXTINF:-1,UKR_FUTBOL 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/338.ts
+#EXTINF:-1,UKR_FUTBOL 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/339.ts
+#EXTINF:-1,UKR_FUTBOL 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/340.ts
+#EXTINF:-1,RU_FUTBALL SD 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/193.ts
+#EXTINF:-1,RU_FUTBALL SD 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/194.ts
+#EXTINF:-1,RU_FUTBALL SD 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/195.ts
+#EXTINF:-1,RU_VIASATSPORT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/196.ts
+#EXTINF:-1,RU_DISCOVERY_CHANNEL HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/170.ts
+#EXTINF:-1,AR_BEINSPORT 1 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/46.ts
+#EXTINF:-1,AR_BEINSPORT 2 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/47.ts
+#EXTINF:-1,AR_BEINSPORT 3 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/48.ts
+#EXTINF:-1,AR_BEINSPORT 4 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/143.ts
+#EXTINF:-1,AR_BEINSPORT 5 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/144.ts
+#EXTINF:-1,AR_BEINSPORT 6 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/409.ts
+#EXTINF:-1,AR_BEINSPORT 7 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/145.ts
+#EXTINF:-1,AR_BEINSPORT 8 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/146.ts
+#EXTINF:-1,AR_BEINSPORT 9 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/147.ts
+#EXTINF:-1,AR_BEINSPORT 10 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/148.ts
+#EXTINF:-1,AR_BEINSPORT 11 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/150.ts
+#EXTINF:-1,AR_BEINSPORT 12 HD
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/149.ts
+#EXTINF:-1,KOS_SUPERSPORT 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/40.ts
+#EXTINF:-1,KOS_SUPERSPORT 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/41.ts
+#EXTINF:-1,KOS_SUPERSPORT 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/42.ts
+#EXTINF:-1,USA_ARENA SPORT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/50.ts
+#EXTINF:-1,KAZ_KAZSPORT
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/71.ts
+#EXTINF:-1,SKAND_C SPORT LIVE
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/43.ts
+#EXTINF:-1,AZ_AZERI TV
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/79.ts
+#EXTINF:-1,ENG_VEVO MUZIK 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/108.ts
+#EXTINF:-1,ENG_VEVO MUZIK 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/109.ts
+#EXTINF:-1,ENG_VEVO MUZIK 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/110.ts
+#EXTINF:-1,XXX_HOT_CLUB 1
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/413.ts
+#EXTINF:-1,XXX_HOT_CLUB 2
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/414.ts
+#EXTINF:-1,XXX_HOT_CLUB 3
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/415.ts
+#EXTINF:-1,XXX_HOT_CLUB 4
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/416.ts
+#EXTINF:-1,XXX_HOT_CLUB 5
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/417.ts
+#EXTINF:-1,XXX_HOT CLUB 6
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/465.ts
+#EXTINF:-1,XXX_HOT CLUB 7
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/466.ts
+#EXTINF:-1,XXX_HOT CLUB 8
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/467.ts
+#EXTINF:-1,XXX_HOT CLUB 9
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/468.ts
+#EXTINF:-1,XXX_HUSTLER
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/470.ts
+#EXTINF:-1,XXX_BRAZZERS
+http://okayahmetbilisim.mine.nu:8000/live/fred01/lHJx36E5MV/469.ts
